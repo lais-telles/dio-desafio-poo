@@ -32,7 +32,7 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorN
 
     @Override
     public void exibirPagina() {
-        System.out.println("Exibindo pa agina no Iphone");
+        System.out.println("Exibindo a pagina no Iphone");
     }
 
     @Override
